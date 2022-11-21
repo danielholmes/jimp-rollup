@@ -27,7 +27,7 @@ npm run build
 This shows the issue:
 
 ```
-> n run build
+> npm run build
 
 > jimp-rollup@1.0.0 build
 > rollup -c
