@@ -12,6 +12,12 @@ asdf install
 
 Or alternatively just look at `./.tool-versions` and install the versions manually.
 
+Then install the node dependencies:
+
+```bash
+npm ci
+```
+
 ## Running build
 
 ```bash
